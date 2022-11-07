@@ -1,3 +1,6 @@
+Serves: 4-6
+Time: 45 min
+Alergens: not really
 # Ingredients
 - Half an onion
 - 3 cloves of garlic
