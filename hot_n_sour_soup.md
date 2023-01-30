@@ -1,9 +1,12 @@
 Serves: 6
+
 Time: 1 hour
+
 Alergens: mushrooms, garlic, gluten (all optional)
-[x] vegan
-[x] vegetarian
-[x] gluten free
+
+- [x] vegan
+- [x] vegetarian
+- [x] gluten free
 
 # Ingredients
 - 64 oz Vegetable stock
