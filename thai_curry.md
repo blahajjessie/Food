@@ -1,15 +1,19 @@
 Serves: 4-6
 Time: 45 min
 Alergens: not really
+[x] vegan
+[x] vegetarian
+[x] gluten free
+
 # Ingredients
 - Half an onion
 - 3 cloves of garlic
-- Whatever veggies you want
+- Whatever veggies you want. 
     I used the following
     - 2 Heads of broccoli
-    - half a zucchini
-    - one yellow potato
-    - medium sized carrots
+    - Half a zucchini
+    - One yellow potato
+    - Medium sized carrots
 - One pack of kinda firm but not super duper ultra extra firm tofu
 - 3 cans of coconut milk
 - 2 jars of thai curry paste (it rly doesnt matter what type)
