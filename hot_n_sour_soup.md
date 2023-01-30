@@ -26,7 +26,7 @@ Allergens: mushrooms, garlic, gluten (all optional)
 - 2 tsp salt
 - 1 tsp onion powder
 - 2 tsp garlic powder
-- 1 tbsp soy sauce
+- 1 tbsp soy sauce (or gluten free soy sauce)
 - 1 tbsp rice vinegar
 - 2 tsp white sugar
 - salt to taste 

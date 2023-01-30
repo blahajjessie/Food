@@ -4,7 +4,7 @@ how to make pretty ok food
 ## Contents:
 - [Thai Curry](thai_curry.md)
 - [Hot and Sour Soup](hot_n_sour_soup.md)
-- ["Butter Panner"](butter_paneer.md) (Not mine, but I like it and I rewrote some of it)
+- [Butter Panner](butter_paneer.md)
 - [Stir Fry Noodles](noodles.md) [WIP]
 - [Fried Rice](fried_rice.md) [WIP]
 - [Breakfast Burritos](breakie_burrito.md) [WIP]

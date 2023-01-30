@@ -1,15 +1,17 @@
+# Thai Curry
+
 Serves: 4-6
 Time: 45 min
-Alergens: not really
-[x] vegan
-[x] vegetarian
-[x] gluten free
+Allergens: not really
+
+- [x] vegan
+- [x] vegetarian
+- [x] gluten free
 
 # Ingredients
 - Half an onion
 - 3 cloves of garlic
-- Whatever veggies you want. 
-    I used the following
+- Whatever veggies you want. I used the following
     - 2 Heads of broccoli
     - Half a zucchini
     - One yellow potato

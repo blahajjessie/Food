@@ -1,6 +1,6 @@
 Serves: 4
 Time: 45 Minutes
-Alergens: Gluten (maybe)
+Allergens: Gluten (maybe)
 [x] vegan
 [x] vegetarian
 [x] gluten free
