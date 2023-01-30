@@ -1,12 +1,13 @@
+# Hot and Sour Soup
+
 Serves: 6
-
 Time: 1 hour
+Active time: 30 min
+Allergens: mushrooms, garlic, gluten (all optional)
 
-Alergens: mushrooms, garlic, gluten (all optional)
-
-- [x] vegan
-- [x] vegetarian
-- [x] gluten free
+- [x]  vegan
+- [x]  vegetarian
+- [x]  gluten free
 
 # Ingredients
 - 64 oz Vegetable stock
@@ -14,7 +15,7 @@ Alergens: mushrooms, garlic, gluten (all optional)
 - 1/2 cabbage
 - 1-2 carrots
 - 1/2 onion
-- 100 grams shitake mushrooms
+- 100 grams shiitake mushrooms
 - 8 oz can of baby corn
 - any other veggies you want
 - 16 oz silken tofu
